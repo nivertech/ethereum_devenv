@@ -60,6 +60,12 @@ NOTE: instractions assume Ubuntu 12.04 LTS x86_64 host OS (modify for your host 
 7. This will take some time 15 - 20 min (depending on your network), go make coffee and when return:
 	``` bash
 	vagrants ssh
+
+	# run eth CLI client
+	cd ~/ws/cpp-ethereum/build/eth
+	./eth
+
+	# OR run AlethZero GUI client
 	cd ~/ws/cpp-ethereum/build/alethzero
 	./alethzero
 	```
