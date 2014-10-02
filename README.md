@@ -74,3 +74,28 @@ NOTE: instractions assume Ubuntu 12.04 LTS x86_64 host OS (modify for your host 
 
 See also: https://github.com/valzav/vagrant-ethereum
 
+--------------------------------------------------------------
+
+###Links for developers:
+
+Ethereum London Workshop:
+- http://www.meetup.com/ethereum/events/194948042/?fromJoin=194948042
+
+ethereum training modules
+- https://ethercasts.github.io/training/#/
+- https://github.com/EtherCasts/training
+
+
+Ethereum tutorials for developers
+- http://softwareconfidence.com/?p=211
+- http://forum.ethereum.org/discussion/1402/how-to-get-started-your-first-dapp-under-one-hour
+
+Climbing the Ethereum Trie
+- http://blog.galtstreet.com/post/96173057355/climbing-ethereum-trie
+
+
+Search HN:
+https://hn.algolia.com/?q=ethereum#!/story/sort_by_date/0/ethereum
+
+--------------------------------------------------------------
+
