@@ -99,3 +99,11 @@ https://hn.algolia.com/?q=ethereum#!/story/sort_by_date/0/ethereum
 
 --------------------------------------------------------------
 
+### TODO
+
+Dockerized version?
+
+Running GUI apps with Docker
+- http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
+- https://news.ycombinator.com/item?id=8426764
+
