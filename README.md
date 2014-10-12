@@ -94,6 +94,14 @@ Ethereum tutorials for developers
 
 Climbing the Ethereum Trie
 - http://blog.galtstreet.com/post/96173057355/climbing-ethereum-trie
+ 
+
+Ethereum White Paper
+- https://www.ethereum.org/pdfs/EthereumWhitePaper.pdf
+
+Ethereum Yellow Paper
+- http://gavwood.com/paper.pdf
+
 
 
 Search HN:
