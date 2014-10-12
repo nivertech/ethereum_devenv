@@ -78,13 +78,15 @@ See also: https://github.com/valzav/vagrant-ethereum
 
 ###Links for developers:
 
+Intro to Ethereum VM with Gaiv Woods:
+- https://blog.ethereum.org/2014/08/06/programming-society-with-asm-gavin-wood-at-assembly-2014/
+
 Ethereum London Workshop:
 - http://www.meetup.com/ethereum/events/194948042/?fromJoin=194948042
 
 ethereum training modules
 - https://ethercasts.github.io/training/#/
 - https://github.com/EtherCasts/training
-
 
 Ethereum tutorials for developers
 - http://softwareconfidence.com/?p=211
