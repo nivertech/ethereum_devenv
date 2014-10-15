@@ -111,8 +111,8 @@ https://hn.algolia.com/?q=ethereum#!/story/sort_by_date/0/ethereum
 
 ### See
 
-Official Dockerized cpp-ethereum (does it support GUI?)
-https://github.com/ethereum/cpp-ethereum/tree/develop/docker
+Official Dockerized cpp-ethereum (does it support X11 AlethZero GUI?)
+- https://github.com/ethereum/cpp-ethereum/tree/develop/docker
 
 ### TODO
 
