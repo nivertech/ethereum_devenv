@@ -81,6 +81,9 @@ See also: https://github.com/valzav/vagrant-ethereum
 Intro to Ethereum VM with Gaiv Woods:
 - https://blog.ethereum.org/2014/08/06/programming-society-with-asm-gavin-wood-at-assembly-2014/
 
+The future of Ethereum: "DΞV and Beyond":
+- https://www.youtube.com/watch?v=o6D8Up411dI
+
 Ethereum London Workshop:
 - http://www.meetup.com/ethereum/events/194948042/?fromJoin=194948042
 
