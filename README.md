@@ -106,6 +106,9 @@ Ethereum Yellow Paper
 - http://gavwood.com/paper.pdf
 
 
+Examples of contracts in Serpent:
+- https://github.com/ethereum/serpent/tree/master/examples
+
 
 Search HN:
 https://hn.algolia.com/?q=ethereum#!/story/sort_by_date/0/ethereum
