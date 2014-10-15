@@ -114,9 +114,10 @@ https://hn.algolia.com/?q=ethereum#!/story/sort_by_date/0/ethereum
 Official Dockerized cpp-ethereum (does it support X11 AlethZero GUI?)
 - https://github.com/ethereum/cpp-ethereum/tree/develop/docker
 
-### TODO
+All Ethereum projects are Dockerized now:
+- https://github.com/ethereum/ethereum-dockers
 
-Dockerized version?
+### How to run GUI app from Docker
 
 Running GUI apps with Docker
 - http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
