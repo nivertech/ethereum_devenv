@@ -35,8 +35,8 @@ NOTE: instractions assume Ubuntu 12.04 LTS x86_64 host OS (modify for your host 
 	wget https://dl.bintray.com/mitchellh/vagrant/vagrant_1.6.5_x86_64.deb
 	sudo dpkg -i vagrant_1.6.5_x86_64.deb
 
-	# add to your ~/.bashrc
-	export PATH=$PATH:/opt/vagrant/bin
+	# update PATH in your ~/.bashrc
+	echo 'export PATH=$PATH:/opt/vagrant/bin' > ~/.bashrc
 
 	vagrant version
 
@@ -58,7 +58,7 @@ NOTE: instractions assume Ubuntu 12.04 LTS x86_64 host OS (modify for your host 
     ```
 
 7. This will take some time 15 - 20 min (depending on your network), go make coffee and when return:
-	``` bash
+    ``` bash
 	vagrants ssh
 
 	# run eth CLI client
@@ -108,6 +108,11 @@ Search HN:
 https://hn.algolia.com/?q=ethereum#!/story/sort_by_date/0/ethereum
 
 --------------------------------------------------------------
+
+### See
+
+Official Dockerized cpp-ethereum (does it support GUI?)
+https://github.com/ethereum/cpp-ethereum/tree/develop/docker
 
 ### TODO
 
