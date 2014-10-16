@@ -110,6 +110,10 @@ Examples of contracts in Serpent:
 - https://github.com/ethereum/serpent/tree/master/examples
 
 
+Examples of full DApps:
+- https://github.com/ethereum/dapp-bin
+
+
 Search HN:
 https://hn.algolia.com/?q=ethereum#!/story/sort_by_date/0/ethereum
 
