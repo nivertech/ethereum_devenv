@@ -39,8 +39,15 @@ NOTE: instractions assume Ubuntu 12.04 LTS x86_64 host OS (modify for your host 
 	echo 'export PATH=$PATH:/opt/vagrant/bin' > ~/.bashrc
 
 	vagrant version
+    ```
+    
+    The output should be:
 
-	#	Vagrant 1.6.5
+    ```
+    Installed Version: 1.7.2
+    Latest Version: 1.7.2
+     
+    You're running an up-to-date version of Vagrant!
     ```
 
 4. Do:
