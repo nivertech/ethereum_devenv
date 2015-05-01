@@ -8,41 +8,43 @@ sudo apt-get install -y build-essential g++-4.8 git cmake libgmp-dev libboost-al
 cd
 mkdir -p ~/ws
 
-cd ~/ws/
-git clone https://github.com/mmoss/cryptopp.git
-cd cryptopp
-sudo scons --shared --prefix=/usr
-cd ..
 
-cd ~/ws/
-git clone git://github.com/cinemast/libjson-rpc-cpp.git
-cd libjson-rpc-cpp/build
-cmake .. && make
-sudo make install
-sudo ldconfig
-cd ../..
+# cd ~/ws/
+# git clone https://github.com/mmoss/cryptopp.git
+# cd cryptopp
+# sudo scons --shared --prefix=/usr
+# cd ..
 
-cd ~/ws/
-git clone https://github.com/ethereum/tests
-cd tests
-git checkout develop
-cd ..
+# cd ~/ws/
+# git clone git://github.com/cinemast/libjson-rpc-cpp.git
+# cd libjson-rpc-cpp/build
+# cmake .. && make
+# sudo make install
+# sudo ldconfig
+# cd ../..
 
-cd ~/ws/
-git clone https://github.com/ethereum/cpp-ethereum
-cd cpp-ethereum/
-git checkout develop
+# cd ~/ws/
+# git clone https://github.com/ethereum/tests
+# cd tests
+# git checkout develop
+# cd ..
 
-rm -rf build/
-mkdir -p build
-cd build/
+# cd ~/ws/
+# git clone https://github.com/ethereum/cpp-ethereum
+# cd cpp-ethereum/
+# git checkout develop
 
-cmake .. -DCMAKE_BUILD_TYPE=Release && make
+# rm -rf build/
+# mkdir -p build
+# cd build/
 
-#cd eth/
-#./eth 
+# cmake .. -DCMAKE_BUILD_TYPE=Release && make
 
-#cd alethzero/
-#./alethzero
+# #cd eth/
+# #./eth 
+
+# #cd alethzero/
+# #./alethzero
+
 
 echo "DONE!"
