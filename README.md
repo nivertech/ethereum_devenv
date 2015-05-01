@@ -20,8 +20,8 @@ NOTE: instractions assume Ubuntu 12.04 LTS x86_64 host OS (modify for your host 
 2. Install latest VirtualBox from https://www.virtualbox.org/wiki/Downloads
     ``` bash
     cd ~/Downloads
-	wget http://download.virtualbox.org/virtualbox/4.3.16/virtualbox-4.3_4.3.16-95972~Ubuntu~precise_amd64.deb
-	sudo dpkg -i virtualbox-4.3_4.3.16-95972~Ubuntu~precise_amd64.deb
+	wget http://download.virtualbox.org/virtualbox/4.3.26/virtualbox-4.3_4.3.26-98988~Ubuntu~precise_amd64.deb
+	sudo dpkg -i virtualbox-4.3_4.3.26-98988~Ubuntu~precise_amd64.deb
 
 	VBoxManage --version
 
@@ -32,8 +32,8 @@ NOTE: instractions assume Ubuntu 12.04 LTS x86_64 host OS (modify for your host 
 3. Install latest Vagrant from https://www.vagrantup.com/downloads.html
     ``` bash
 	cd ~/Downloads/
-	wget https://dl.bintray.com/mitchellh/vagrant/vagrant_1.6.5_x86_64.deb
-	sudo dpkg -i vagrant_1.6.5_x86_64.deb
+	wget https://dl.bintray.com/mitchellh/vagrant/vagrant_1.7.2_x86_64.deb
+	sudo dpkg -i vagrant_1.7.2_x86_64.deb
 
 	# update PATH in your ~/.bashrc
 	echo 'export PATH=$PATH:/opt/vagrant/bin' > ~/.bashrc
